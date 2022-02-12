@@ -1,0 +1,6 @@
+[00:00:42]: [Join Announcement] NERO
+[00:01:57]: [Join Announcement] 593550975
+[01:18:37]: [Death Announcement] 593550975 死于： 猎犬。她变成了可怕的鬼魂！
+[01:18:59]: [Death Announcement] NERO 死于： 猎犬。她变成了可怕的鬼魂！
+[01:19:47]: [Leave Announcement] NERO
+[01:19:48]: [Leave Announcement] 593550975

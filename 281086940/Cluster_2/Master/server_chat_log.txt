@@ -1,0 +1,6 @@
+[00:00:38]: [Join Announcement] NERO
+[00:01:33]: [Join Announcement] 1318186849
+[00:25:28]: [Death Announcement] NERO 死于： 树精守卫。她变成了可怕的鬼魂！
+[00:26:40]: [Death Announcement] 1318186849 死于： 坑。他变成了可怕的鬼魂！
+[00:29:26]: [Leave Announcement] 1318186849
+[00:31:09]: [Leave Announcement] NERO

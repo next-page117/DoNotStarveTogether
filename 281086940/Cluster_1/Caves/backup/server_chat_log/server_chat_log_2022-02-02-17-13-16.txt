@@ -1,0 +1,6 @@
+[00:00:41]: [Join Announcement] NERO
+[00:02:59]: [Join Announcement] 593550975
+[00:06:02]: [Death Announcement] 593550975 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[00:08:17]: [Resurrect Announcement] 593550975 复活自： NERO.
+[00:16:27]: [Death Announcement] 593550975 死于： 中暑。她变成了可怕的鬼魂！
+[00:18:36]: [Resurrect Announcement] 593550975 复活自： NERO.

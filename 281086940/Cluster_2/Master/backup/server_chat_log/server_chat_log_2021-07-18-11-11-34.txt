@@ -1,0 +1,4 @@
+[00:00:52]: [Join Announcement] NERO
+[00:01:46]: [Join Announcement] 1318186849
+[00:09:03]: [Leave Announcement] NERO
+[00:09:03]: [Leave Announcement] 1318186849

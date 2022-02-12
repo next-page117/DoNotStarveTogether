@@ -1,0 +1,8 @@
+[00:02:08]: [Join Announcement] 1318186849
+[00:06:03]: [Death Announcement] NERO 死亡，死因： 爬行的恐惧。她变成了一个令人毛骨悚然的鬼！
+[00:06:39]: [Leave Announcement] 1318186849
+[00:24:24]: [Join Announcement] 1318186849
+[00:40:03]: [Skin Announcement] 1318186849 <56 / 150> body_tshirt_red_higgsbury
+[00:45:33]: [Death Announcement] 1318186849 死亡，死因： 黑暗。他变成了一个令人毛骨悚然的鬼！
+[00:46:36]: [Resurrect Announcement] 1318186849 复活自 NERO.
+[01:19:16]: [Leave Announcement] 1318186849

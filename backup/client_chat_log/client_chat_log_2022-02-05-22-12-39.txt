@@ -1,0 +1,8 @@
+[00:06:44]: [Join Announcement] 593550975
+[00:09:22]: [Death Announcement] 593550975 死于： 冻伤。她变成了可怕的鬼魂！
+[00:17:05]: [Resurrect Announcement] 593550975 复活自： NERO.
+[00:18:54]: [Death Announcement] 593550975 死于： 冻伤。她变成了可怕的鬼魂！
+[00:20:52]: [Resurrect Announcement] 593550975 复活自： NERO.
+[00:45:42]: [Death Announcement] 593550975 死于： 中暑。她变成了可怕的鬼魂！
+[00:48:52]: [Resurrect Announcement] 593550975 复活自： NERO.
+[02:08:50]: [Skin Announcement] 593550975 feet_loafers_black_jet

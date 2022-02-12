@@ -1,0 +1,10 @@
+[00:04:27]: [Join Announcement] 1318186849
+[00:45:49]: [Death Announcement] 1318186849 死于： 怪物肉。他变成了可怕的鬼魂！
+[00:46:05]: [Resurrect Announcement] 1318186849 复活自： NERO.
+[00:46:39]: [Death Announcement] 1318186849 死于： 洞穴蝙蝠。他变成了可怕的鬼魂！
+[00:46:50]: [Resurrect Announcement] 1318186849 复活自： NERO.
+[01:05:51]: [Death Announcement] 1318186849 死于： 蓝色猎犬。他变成了可怕的鬼魂！
+[01:07:42]: [Resurrect Announcement] 1318186849 复活自： NERO.
+[01:38:41]: [Death Announcement] NERO 死于： 蜘蛛。她变成了可怕的鬼魂！
+[01:42:04]: [Join Announcement] 1318186849
+[01:54:30]: [Join Announcement] 1318186849

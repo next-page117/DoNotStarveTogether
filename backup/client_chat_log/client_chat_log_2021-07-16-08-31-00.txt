@@ -1,0 +1,4 @@
+[00:08:30]: [Join Announcement] 1318186849
+[00:27:08]: [Death Announcement] 1318186849 死亡，死因： 龙蝇。他变成了一个令人毛骨悚然的鬼！
+[00:32:05]: [Resurrect Announcement] 1318186849 复活自 NERO.
+[01:35:31]: [Leave Announcement] 1318186849
